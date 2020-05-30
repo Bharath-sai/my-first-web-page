@@ -1,0 +1,27 @@
+*{
+
+font-family:century gothic;
+}
+header{
+background-image:url(../nara.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+ul
+{
+float:right;
+list-style-type:
+}
+ul li{
+display:inline-block;
+}
+ul li{
+text-decoration-line:underline;
+text-decoration-style:solid;
+padding:5px 15px;
+border:1px solid #fff;
+}
+ul li a:hover{
+background-color:#fff;
+color:#fff;}
